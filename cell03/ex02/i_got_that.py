@@ -3,5 +3,4 @@ while True:
         break
     if input("I got that! Anything else? :") == "STOP":
         break
-    else:
-        input("I got that! Anything else? :")
+

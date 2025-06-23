@@ -1,5 +1,4 @@
-agestr = str(input("PLease tell me your age:"))
-ageint = int(agestr)
+ageint = int(input("PLease tell me your age:"))
 print("You are currently",ageint,"years old")
 print("In 10 years, you will be",ageint + 10,"years old")
 print("In 20 years, you will be",ageint + 20,"years old")
