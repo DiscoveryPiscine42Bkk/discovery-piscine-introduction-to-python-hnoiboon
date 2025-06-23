@@ -1,5 +1,6 @@
+user_input = input("What you gotta say? :")
 while True:
-    if input("What you gotta say? :") == "STOP":
+    if user_input == "STOP":
         break
     if input("I got that! Anything else? :") == "STOP":
         break
