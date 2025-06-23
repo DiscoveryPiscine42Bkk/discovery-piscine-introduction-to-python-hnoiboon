@@ -6,7 +6,7 @@ if i < 25:
         i +=1
         print("Inside the loop, my variable is",i)  
 else:
-    print("Inside the loop, my variable is 25")
+    print("Error")
         
 
 
